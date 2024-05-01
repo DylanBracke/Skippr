@@ -1,0 +1,2 @@
+# Skippr
+ A ropeskipping trainer
