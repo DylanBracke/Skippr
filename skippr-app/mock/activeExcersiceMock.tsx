@@ -1,4 +1,4 @@
-import  EXCERCISE_MOCK  from "../mock/exerciseMock";
+import  EXCERCISE_MOCK  from "./exerciseMock";
 import ActiveExercise from "../model/activeExcerciseModel";
 
 const ACTIVE_EXCERCISE_MOCK : ActiveExercise[] = [
